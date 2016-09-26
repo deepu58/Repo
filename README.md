@@ -8,3 +8,6 @@ main()
     getch();
 
 }
+
+
+Better take input from user
